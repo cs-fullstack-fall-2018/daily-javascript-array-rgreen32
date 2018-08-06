@@ -31,3 +31,5 @@ C. An alert box displaying the following: Paul, John, George
 
 D. An alert box displaying the following: John, Ringo, George
 
+B
+
